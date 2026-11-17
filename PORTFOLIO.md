@@ -2,47 +2,40 @@
 
 ## Apresentação
 
-Sou estudante de tecnologia em Juiz de Fora, Minas Gerais, cursando Análise e Desenvolvimento de Sistemas no Instituto Vianna Júnior, com previsão de conclusão em julho de 2027, e Ciência de Dados na Estácio. Busco uma oportunidade de estágio em desenvolvimento de software ou dados, onde possa contribuir com projetos reais e continuar evoluindo com uma equipe.
+Sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Vianna Júnior, com conclusão prevista para julho de 2027, e iniciei Ciência de Dados na Estácio. Busco uma oportunidade de estágio em desenvolvimento de software ou dados.
 
-Minha experiência prática vem de projetos acadêmicos e pessoais que envolvem aplicações web e mobile, APIs REST, autenticação, persistência de dados, visualização de informações e integração entre serviços.
+Nos projetos acadêmicos, pratiquei desenvolvimento Java com Spring Boot, organização em camadas, persistência relacional e aplicações web. Também trabalhei com Python, pandas e dashboards interativos para explorar conjuntos de dados.
 
 ## Projetos selecionados
 
-### API de carteira de investimentos
-[Ver repositório](https://github.com/JoaoPedro0411/api)
+### NutriFit — sistema web acadêmico
 
-API em Node.js e Express, estruturada com Sequelize, para operações de uma carteira de investimentos. O projeto aborda autenticação, organização por camadas, persistência relacional e integração com serviços externos.
+[Repositório no GitHub](https://github.com/JoaoPedro0411/Nutrifit_JP_GL)
 
-**Tecnologias:** Node.js, Express, Sequelize, MySQL, JWT, OAuth e Brapi.
+Aplicação web desenvolvida em dupla para acompanhamento nutricional, treinos, agendamentos e hidratação. O sistema organiza regras e acesso a dados em camadas e oferece cadastro, login, dashboard e operações CRUD.
 
-### Carteira de investimentos mobile
-[Ver repositório](https://github.com/JoaoPedro0411/carteira-investimentos-mobile)
+**Tecnologias:** Java 17, Spring Boot, Spring Security, Spring Data JPA, Thymeleaf, H2, MySQL e Maven.
 
-Aplicativo React Native com Expo, navegação entre telas, contexto de autenticação, armazenamento local e componentes para visualizar dados de investimentos. O código está organizado em um diretório de aplicativo dentro do repositório.
+**O que demonstra:** desenvolvimento de aplicação web com Java, persistência via JPA, organização entre controllers, serviços e repositórios, e implementação de fluxos de autenticação e gestão de dados.
 
-**Tecnologias:** React Native, Expo, React Navigation, React Native Paper, Axios, AsyncStorage e React Native Chart Kit.
+### Dashboard de Energia Solar — visualização de dados
 
-### NutriFit
-[Ver repositório](https://github.com/JoaoPedro0411/Nutrifit_JP_GL)
+[Repositório no GitHub](https://github.com/JoaoPedro0411/dashboard-energia-solar)
 
-Aplicação web acadêmica desenvolvida em equipe para o domínio de nutrição, usando o ecossistema Spring. O projeto demonstra a construção de uma aplicação Java com camada web e persistência.
+Dashboard interativo para explorar dados de usinas solares em oito estados norte-americanos. O usuário seleciona um indicador e compara os valores em um gráfico de barras, com acesso à tabela de dados.
 
-**Tecnologias:** Java, Spring Boot, Thymeleaf, JPA, H2 e MySQL.
+**Tecnologias:** Python, pandas, Plotly, Dash, Dash Bootstrap Components e Dash AG Grid.
 
-### WireHarness GTR250 Delphi
-[Ver repositório](https://github.com/JoaoPedro0411/WireHarness-gtr250-delphi)
+**O que demonstra:** leitura de CSV com pandas, visualização interativa, interface web com callbacks e organização de uma aplicação de dados.
 
-Projeto desktop ligado à organização de informações de chicote elétrico de motocicleta. É um projeto pessoal que conecta programação e minha experiência acadêmica anterior em Engenharia Elétrica.
-
-**Tecnologias:** Delphi e conceitos de engenharia elétrica.
+**Limitação conhecida:** o conjunto disponível contém apenas oito estados e não registra fonte nem período de referência; portanto, serve para demonstrar a implementação, não para sustentar conclusões atuais sobre o setor.
 
 ## Competências aplicadas
 
-- Desenvolvimento de aplicações web, mobile e APIs.
-- Modelagem e persistência de dados relacionais.
-- Integração entre aplicações e serviços HTTP.
-- Autenticação e organização de código em camadas.
-- Fundamentos de análise e visualização de dados com Python, pandas, Dash e Plotly.
+- Desenvolvimento web com Java e Spring Boot.
+- Organização de aplicações em camadas e persistência relacional.
+- Visualização interativa e exploração de dados com Python e pandas.
+- Construção de dashboards com Plotly Dash.
 - Controle de versão com Git e GitHub.
 
 ## Formação
@@ -52,8 +45,8 @@ Projeto desktop ligado à organização de informações de chicote elétrico de
 - **Ciência de Dados — Estácio**  
   Em andamento · previsão aproximada de conclusão em 2029.
 - **Engenharia Elétrica — UniAcademia**  
-  Curso realizado entre 2020 e 2022, não concluído.
+  Curso realizado entre 2020 e 2022 · não concluído.
 
-## Links
+## Perfil
 
-- [Perfil no GitHub](https://github.com/JoaoPedro0411)
+[GitHub — João Pedro](https://github.com/JoaoPedro0411)
