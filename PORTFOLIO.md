@@ -18,6 +18,18 @@ Aplicação web desenvolvida em dupla para acompanhamento nutricional, treinos, 
 
 **O que demonstra:** desenvolvimento de aplicação web com Java, persistência via JPA, organização entre controllers, serviços e repositórios, e implementação de fluxos de autenticação e gestão de dados.
 
+### API de carteira de investimentos — backend REST
+
+[Repositório público no GitHub](https://github.com/JoaoPedro0411/carteira-investimentos-api)
+
+API acadêmica para cadastro e autenticação de usuários, operações de carteira, histórico de transações e consulta de cotações externas.
+
+**Tecnologias:** Node.js, Express, Sequelize, MySQL, Passport, JWT, bcrypt e Brapi.
+
+**O que demonstra:** construção de API REST, organização em controllers e serviços, persistência relacional, autenticação e integração com serviço externo.
+
+**Limitação conhecida:** projeto acadêmico; validações, cobertura de testes e revisão de segurança devem ser ampliadas antes de qualquer uso além de demonstração.
+
 ### Dashboard de Energia Solar — visualização de dados
 
 [Repositório no GitHub](https://github.com/JoaoPedro0411/dashboard-energia-solar)
