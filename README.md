@@ -32,5 +32,4 @@ Oportunidades de estágio em desenvolvimento de software ou dados, e posições 
 
 ## Contato
 
-- [LinkedIn](https://www.linkedin.com/)
 - [GitHub](https://github.com/JoaoPedro0411)
