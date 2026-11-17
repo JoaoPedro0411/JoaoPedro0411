@@ -1,36 +1,37 @@
 # João Pedro Carneiro da Fonseca
 
-### Estudante de Análise e Desenvolvimento de Sistemas e Ciência de Dados
+### Estudante de ADS e Ciência de Dados | Java, Spring Boot, Python e análise de dados
 
-Sou estudante de tecnologia em Juiz de Fora (MG), com interesse em desenvolvimento de software e análise de dados. Gosto de transformar problemas em aplicações úteis e venho construindo experiência prática por meio de projetos acadêmicos e pessoais.
+Sou estudante de tecnologia em Juiz de Fora (MG), com experiência prática em projetos acadêmicos de desenvolvimento web e visualização de dados. Tenho trabalhado com Java e Spring Boot, aplicações organizadas em camadas, persistência relacional, Python, pandas e dashboards interativos.
 
 ## Formação
 
 - **Análise e Desenvolvimento de Sistemas — Instituto Vianna Júnior**  
-  Em andamento · previsão de conclusão: **julho de 2027**
+  Em andamento · conclusão prevista para **julho de 2027**
 - **Ciência de Dados — Estácio**  
-  Em andamento · previsão aproximada: **2029**
+  Em andamento · previsão aproximada para **2029**
 - **Engenharia Elétrica — UniAcademia**  
-  2020–2022 · curso não concluído
+  Curso realizado entre 2020 e 2022 · não concluído
 
-## Projetos em destaque
+## Projetos selecionados
 
-[Abrir documento de apresentação do portfólio](./PORTFOLIO.md)
+- **[NutriFit — aplicação web com Spring Boot](https://github.com/JoaoPedro0411/Nutrifit_JP_GL)**  
+  Projeto acadêmico desenvolvido em dupla. Sistema web com cadastro e login, dashboard e operações CRUD para refeições, planos alimentares, treinos, agendamentos e hidratação.  
+  **Java · Spring Boot · Spring Security · JPA · Thymeleaf · H2/MySQL**
 
-- **[API de carteira de investimentos](https://github.com/JoaoPedro0411/api)** — API REST com Node.js, Express, Sequelize e autenticação JWT, voltada ao gerenciamento de ativos e transações.
-- **[Carteira de investimentos mobile](https://github.com/JoaoPedro0411/carteira-investimentos-mobile)** — aplicativo React Native/Expo com autenticação, navegação, armazenamento local e gráficos; migrado do GitLab com o histórico preservado.
-- **[NutriFit](https://github.com/JoaoPedro0411/Nutrifit_JP_GL)** — aplicação web acadêmica com Java e Spring Boot para gestão relacionada a nutrição.
-- **[WireHarness GTR250 Delphi](https://github.com/JoaoPedro0411/WireHarness-gtr250-delphi)** — projeto desktop ligado à organização de informações de chicote elétrico, unindo software e conhecimentos de elétrica.
+- **[Dashboard de Energia Solar](https://github.com/JoaoPedro0411/dashboard-energia-solar)**  
+  Aplicação interativa para explorar e comparar indicadores estaduais em um conjunto de dados tabular.  
+  **Python · pandas · Plotly Dash · Dash AG Grid**
 
-## Tecnologias e conhecimentos
+## Competências aplicadas
 
 **Desenvolvimento:** Java, Spring Boot, JavaScript, Node.js, Express, React Native  
-**Dados:** Python, pandas, SQL, Dash e Plotly  
-**Persistência e ferramentas:** PostgreSQL, MySQL, H2, Sequelize, JPA, Git e GitHub
+**Dados:** Python, pandas, SQL, Dash, Plotly  
+**Persistência e ferramentas:** MySQL, PostgreSQL, H2, JPA, Sequelize, Git e GitHub
 
-## O que busco
+## Objetivo
 
-Oportunidades de estágio em desenvolvimento de software ou dados, e posições júnior compatíveis com minha experiência. Tenho interesse em aprender com equipes colaborativas e contribuir com projetos reais.
+Busco oportunidades de estágio em desenvolvimento de software ou dados, com interesse em aplicar e ampliar meus conhecimentos em projetos de equipe.
 
 ## Contato
 
