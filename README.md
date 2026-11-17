@@ -15,6 +15,8 @@ Sou estudante de tecnologia em Juiz de Fora (MG), com interesse em desenvolvimen
 
 ## Projetos em destaque
 
+[Abrir documento de apresentação do portfólio](./PORTFOLIO.md)
+
 - **[API de carteira de investimentos](https://github.com/JoaoPedro0411/api)** — API REST com Node.js, Express, Sequelize e autenticação JWT, voltada ao gerenciamento de ativos e transações.
 - **[Carteira de investimentos mobile](https://github.com/JoaoPedro0411/carteira-investimentos-mobile)** — aplicativo React Native/Expo para acompanhar investimentos; repositório em preparação após migração do GitLab.
 - **[NutriFit](https://github.com/JoaoPedro0411/Nutrifit_JP_GL)** — aplicação web acadêmica com Java e Spring Boot para gestão relacionada a nutrição.
