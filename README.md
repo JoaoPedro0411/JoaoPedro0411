@@ -9,7 +9,7 @@ Sou estudante de tecnologia em Juiz de Fora (MG), com experiência prática em p
 - **Análise e Desenvolvimento de Sistemas — Instituto Vianna Júnior**  
   Em andamento · conclusão prevista para **julho de 2027**
 - **Ciência de Dados — Estácio**  
-  Em andamento · previsão aproximada para **2029**
+  Em andamento · previsão aproximada para **maio de 2029**
 - **Engenharia Elétrica — UniAcademia**  
   Curso realizado entre 2020 e 2022 · não concluído
 
