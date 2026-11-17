@@ -15,6 +15,10 @@ Sou estudante de tecnologia em Juiz de Fora (MG), com experiência prática em p
 
 ## Projetos selecionados
 
+- **[API de carteira de investimentos — Node.js e Express](https://github.com/JoaoPedro0411/carteira-investimentos-api)**  
+  API REST acadêmica com autenticação JWT/OAuth, persistência MySQL, gestão de carteira e integração com cotações Brapi.  
+  **Node.js · Express · Sequelize · MySQL · Passport · JWT**
+
 - **[NutriFit — aplicação web com Spring Boot](https://github.com/JoaoPedro0411/Nutrifit_JP_GL)**  
   Projeto acadêmico desenvolvido em dupla. Sistema web com cadastro e login, dashboard e operações CRUD para refeições, planos alimentares, treinos, agendamentos e hidratação.  
   **Java · Spring Boot · Spring Security · JPA · Thymeleaf · H2/MySQL**
