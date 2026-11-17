@@ -67,7 +67,7 @@ Dashboard interativo para explorar dados de usinas solares em oito estados norte
 - **Análise e Desenvolvimento de Sistemas — Instituto Vianna Júnior**  
   Em andamento · conclusão prevista para julho de 2027.
 - **Ciência de Dados — Estácio**  
-  Em andamento · previsão aproximada de conclusão em 2029.
+  Em andamento · previsão aproximada de conclusão em maio de 2029.
 - **Engenharia Elétrica — UniAcademia**  
   Curso realizado entre 2020 e 2022 · não concluído.
 
