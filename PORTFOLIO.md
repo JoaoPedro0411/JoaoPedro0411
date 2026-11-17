@@ -4,7 +4,7 @@
 
 Sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Vianna Júnior, com conclusão prevista para julho de 2027, e iniciei Ciência de Dados na Estácio. Busco uma oportunidade de estágio em desenvolvimento de software ou dados.
 
-Nos projetos acadêmicos, pratiquei desenvolvimento Java com Spring Boot, organização em camadas, persistência relacional e aplicações web. Também trabalhei com Python, pandas e dashboards interativos para explorar conjuntos de dados.
+Nos projetos acadêmicos, pratiquei desenvolvimento Java com Spring Boot, ASP.NET Core, organização em camadas, persistência relacional e aplicações web. Também trabalhei com Python, pandas e dashboards interativos para explorar conjuntos de dados.
 
 ## Projetos selecionados
 
@@ -17,6 +17,18 @@ Aplicação web desenvolvida em dupla para acompanhamento nutricional, treinos, 
 **Tecnologias:** Java 17, Spring Boot, Spring Security, Spring Data JPA, Thymeleaf, H2, MySQL e Maven.
 
 **O que demonstra:** desenvolvimento de aplicação web com Java, persistência via JPA, organização entre controllers, serviços e repositórios, e implementação de fluxos de autenticação e gestão de dados.
+
+### Shop API — aplicação full stack acadêmica em equipe
+
+[Repositório no GitHub](https://github.com/Manihuts/trabalho-fullstack)
+
+Trabalho final de Full Stack desenvolvido em equipe. Participei da implementação da autenticação com JWT e permissões de administrador, de endpoints da API e de fluxos do frontend para autenticação e operações com produtos. A aplicação contempla cadastro e login, gestão de produtos e inventário, além de operações de compra e venda.
+
+**Tecnologias:** C#, ASP.NET Core Minimal API, Entity Framework Core, SQLite, JWT, React e Bootstrap.
+
+**O que demonstra:** desenvolvimento de API com .NET, integração com persistência relacional, autenticação por token, autorização baseada em permissões e integração entre backend e frontend.
+
+**Status:** projeto acadêmico em equipe; alguns fluxos do frontend ficaram parcialmente concluídos. O repositório pertence ao integrante que o mantém; a descrição acima se limita à minha participação registrada nos commits.
 
 ### API de carteira de investimentos — backend REST
 
@@ -44,7 +56,7 @@ Dashboard interativo para explorar dados de usinas solares em oito estados norte
 
 ## Competências aplicadas
 
-- Desenvolvimento web com Java e Spring Boot.
+- Desenvolvimento web com Java, Spring Boot, C#, ASP.NET Core e React.
 - Organização de aplicações em camadas e persistência relacional.
 - Visualização interativa e exploração de dados com Python e pandas.
 - Construção de dashboards com Plotly Dash.
