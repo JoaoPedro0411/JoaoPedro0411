@@ -18,7 +18,7 @@ Sou estudante de tecnologia em Juiz de Fora (MG), com interesse em desenvolvimen
 [Abrir documento de apresentação do portfólio](./PORTFOLIO.md)
 
 - **[API de carteira de investimentos](https://github.com/JoaoPedro0411/api)** — API REST com Node.js, Express, Sequelize e autenticação JWT, voltada ao gerenciamento de ativos e transações.
-- **[Carteira de investimentos mobile](https://github.com/JoaoPedro0411/carteira-investimentos-mobile)** — aplicativo React Native/Expo para acompanhar investimentos; repositório em preparação após migração do GitLab.
+- **[Carteira de investimentos mobile](https://github.com/JoaoPedro0411/carteira-investimentos-mobile)** — aplicativo React Native/Expo com autenticação, navegação, armazenamento local e gráficos; migrado do GitLab com o histórico preservado.
 - **[NutriFit](https://github.com/JoaoPedro0411/Nutrifit_JP_GL)** — aplicação web acadêmica com Java e Spring Boot para gestão relacionada a nutrição.
 - **[WireHarness GTR250 Delphi](https://github.com/JoaoPedro0411/WireHarness-gtr250-delphi)** — projeto desktop ligado à organização de informações de chicote elétrico, unindo software e conhecimentos de elétrica.
 
